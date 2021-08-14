@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/musical-tic-tac-toe/static/css/main.7edb065b.chunk.css",
+    "main.js": "/musical-tic-tac-toe/static/js/main.f0eac07c.chunk.js",
+    "main.js.map": "/musical-tic-tac-toe/static/js/main.f0eac07c.chunk.js.map",
+    "runtime-main.js": "/musical-tic-tac-toe/static/js/runtime-main.6dde677a.js",
+    "runtime-main.js.map": "/musical-tic-tac-toe/static/js/runtime-main.6dde677a.js.map",
+    "static/js/2.364c5bfe.chunk.js": "/musical-tic-tac-toe/static/js/2.364c5bfe.chunk.js",
+    "static/js/2.364c5bfe.chunk.js.map": "/musical-tic-tac-toe/static/js/2.364c5bfe.chunk.js.map",
+    "index.html": "/musical-tic-tac-toe/index.html",
+    "static/css/main.7edb065b.chunk.css.map": "/musical-tic-tac-toe/static/css/main.7edb065b.chunk.css.map",
+    "static/js/2.364c5bfe.chunk.js.LICENSE.txt": "/musical-tic-tac-toe/static/js/2.364c5bfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dde677a.js",
+    "static/js/2.364c5bfe.chunk.js",
+    "static/css/main.7edb065b.chunk.css",
+    "static/js/main.f0eac07c.chunk.js"
+  ]
+}

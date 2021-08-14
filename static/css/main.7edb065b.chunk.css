@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{background:#fff;font-family:Arial,Helvetica,sans-serif;color:#000;margin:0;padding:0;text-align:center;--box-size:100px}.main{margin-top:20vh;display:inline-block}.board{width:calc(var(--box-size)*3);height:calc(var(--box-size)*3);border-collapse:collapse}td{width:var(--box-size);height:var(--box-size)}tr td:not(:last-of-type){border-right:1px solid #000}tr:not(:last-of-type) td{border-bottom:1px solid #000}a{color:#000;-webkit-text-decoration:underline #000;text-decoration:underline #000}
+/*# sourceMappingURL=main.7edb065b.chunk.css.map */
